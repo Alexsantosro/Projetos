@@ -1,0 +1,6 @@
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\bin\Debug\Área de um Circulo.exe.config
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\bin\Debug\Área de um Circulo.exe
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\bin\Debug\Área de um Circulo.pdb
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\obj\Debug\Área de um Circulo.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\obj\Debug\Área de um Circulo.exe
+C:\Users\alexs\source\repos\Área de um Circulo\Área de um Circulo\obj\Debug\Área de um Circulo.pdb

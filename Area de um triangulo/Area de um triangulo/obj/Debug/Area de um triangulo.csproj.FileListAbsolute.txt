@@ -1,0 +1,6 @@
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\bin\Debug\Area de um triangulo.exe.config
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\bin\Debug\Area de um triangulo.exe
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\bin\Debug\Area de um triangulo.pdb
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\obj\Debug\Area de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\obj\Debug\Area de um triangulo.exe
+C:\Users\alexs\source\repos\Area de um triangulo\Area de um triangulo\obj\Debug\Area de um triangulo.pdb

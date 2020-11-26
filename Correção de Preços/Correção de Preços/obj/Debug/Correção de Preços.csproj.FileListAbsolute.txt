@@ -1,0 +1,6 @@
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\bin\Debug\Correção de Preços.exe.config
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\bin\Debug\Correção de Preços.exe
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\bin\Debug\Correção de Preços.pdb
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\obj\Debug\Correção de Preços.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\obj\Debug\Correção de Preços.exe
+C:\Users\alexs\source\repos\Correção de Preços\Correção de Preços\obj\Debug\Correção de Preços.pdb

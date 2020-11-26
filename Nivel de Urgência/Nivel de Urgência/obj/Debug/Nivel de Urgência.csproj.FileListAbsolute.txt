@@ -1,0 +1,7 @@
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\bin\Debug\Nivel de Urgência.exe.config
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\bin\Debug\Nivel de Urgência.exe
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\bin\Debug\Nivel de Urgência.pdb
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\obj\Debug\Nivel de Urgência.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\obj\Debug\Nivel de Urgência.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\obj\Debug\Nivel de Urgência.exe
+C:\Users\alexs\source\repos\Nivel de Urgência\Nivel de Urgência\obj\Debug\Nivel de Urgência.pdb
